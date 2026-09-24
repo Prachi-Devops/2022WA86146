@@ -2,6 +2,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from DevOps Continuous Integration!");
+        System.out.println("Hello from DevOps Continuous Integration - Version2!");
     }
 }
